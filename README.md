@@ -22,7 +22,7 @@
 ### 1. Clone โปรเจกต์
 
 ```bash
-git clone
+git clone <repository-url>
 cd recipe-list-app
 ```
 
