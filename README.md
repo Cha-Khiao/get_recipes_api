@@ -109,5 +109,4 @@ Text('Calories/Serving: ${recipe['caloriesPerServing']}'),
 - หน้าแสดงรายการสูตรอาหาร (ชื่อ, คะแนน, รูป, ความยาก)
 - หน้าแสดงรายละเอียด (รูปเต็ม, ส่วนผสม, วิธีทำ, รีวิว ฯลฯ)
 
-![get_recipes_api](./lib/get_recipes_api.png)
-"# get_recipes_api" 
+![get_recipes_api](./lib/get_recipes_api.png) 
